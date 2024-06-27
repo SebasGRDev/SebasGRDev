@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### ¿Quién soy? 💬
-Me llamo Sebastián, soy un programador Android autodidacta apasionado por la tecnología y el aprendizaje constante en diversas áreas. Esto me ha facilitado comprender el funcionamiento de numerosos aspectos de internet, abarcando desde el diseño y la edición hasta la computación en la nube y la seguridad, sin descuidar mi especialización principal.
+Me llamo Sebastián, soy un programador Android autodidacta con pasión por la tecnología y el aprendizaje continuo en distintas áreas. Esto me ha permitido entender el funcionamiento de varios aspectos de internet, que van desde el diseño y la edición hasta la computación en la nube y la seguridad, manteniendo siempre el enfoque en mi especialización principal.
 
-Al igual que muchos desarrolladores que comienzan a crear aplicaciones por su cuenta, uno de mis principales desafíos fue la gestión del tiempo y la resolución de dudas emergentes. Esto me llevó a adoptar herramientas para estructurar mi jornada, incrementando mi eficiencia y habilidad para resolver problemas de forma autónoma en mis proyectos de aplicaciones.
+Como muchos desarrolladores que inician proyectos propios, enfrenté desafíos significativos en la gestión del tiempo y en el manejo de incertidumbres. Esto me motivó a implementar herramientas que estructuraran mi día a día, mejorando así mi eficiencia y mi capacidad para solucionar problemas de manera independiente en mis proyectos de desarrollo de aplicaciones.
 ### Skills ✨
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-009505?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
