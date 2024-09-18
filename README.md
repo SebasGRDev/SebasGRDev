@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### ¿Quién soy? 💬
-Me llamo Sebastián, soy un programador Android autodidacta con pasión por la tecnología y el aprendizaje continuo en distintas áreas. Esto me ha permitido entender el funcionamiento de varios aspectos de internet, que van desde el diseño y la edición hasta la computación en la nube y la seguridad, manteniendo siempre el enfoque en mi especialización principal.
+Soy un desarrollador Android autodidacta con una sólida base en Kotlin. Mi pasión por la tecnología me impulsa a crear aplicaciones móviles que sean tanto funcionales como visualmente atractivas. A lo largo de mi carrera, he desarrollado una amplia gama de aplicaciones, desde simples utilidades hasta complejos sistemas. Mi objetivo es continuar creciendo como desarrollador y contribuir a proyectos que marquen una diferencia real.
 
 Como muchos desarrolladores que inician proyectos propios, enfrenté desafíos significativos en la gestión del tiempo y en el manejo de incertidumbres. Esto me motivó a implementar herramientas que estructuraran mi día a día, mejorando así mi eficiencia y mi capacidad para solucionar problemas de manera independiente en mis proyectos de desarrollo de aplicaciones.
 ### Skills ✨
