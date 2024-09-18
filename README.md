@@ -19,12 +19,19 @@ Me llamo Sebastián, soy un programador Android autodidacta con pasión por la t
 
 Como muchos desarrolladores que inician proyectos propios, enfrenté desafíos significativos en la gestión del tiempo y en el manejo de incertidumbres. Esto me motivó a implementar herramientas que estructuraran mi día a día, mejorando así mi eficiencia y mi capacidad para solucionar problemas de manera independiente en mis proyectos de desarrollo de aplicaciones.
 ### Skills ✨
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![Kotlin](https://img.shields.io/badge/Kotlin-009505?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010)</br>
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)</br>
-![Retrofit](https://img.shields.io/badge/Retrofit-F89901?style=for-the-badge&labelColor=101010)</br>
-![Room](https://img.shields.io/badge/Room-1E3A8A?style=for-the-badge&labelColor=101010)</br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010) 
+![Kotlin](https://img.shields.io/badge/Kotlin-009505?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010) 
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010) 
+![Retrofit](https://img.shields.io/badge/Retrofit-F89901?style=for-the-badge&labelColor=101010)
+![Room](https://img.shields.io/badge/Room-1E3A8A?style=for-the-badge&labelColor=101010)
+![MVVM](https://img.shields.io/badge/Mvvm-4B4B77?style=for-the-badge&labelColor=101010)
+![MaterialDesign](https://img.shields.io/badge/Material%20Design-757575?&logo=materialdesign&logoColor=white&style=for-the-badge&labelColor=101010)
+![Gradle](https://img.shields.io/badge/Gradle-003545?style=for-the-badge&labelColor=101010)
+![Flavors](https://img.shields.io/badge/Flavors-19E57F?style=for-the-badge&labelColor=101010)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white&labelColor=101010)
 
 ### ¿Cómo encontrarme? 🤔
 [![Twitter](https://img.shields.io/badge/Twitter-@SebasGlezRdz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/SebasGlezRdz)
