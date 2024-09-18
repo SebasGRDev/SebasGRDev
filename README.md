@@ -21,6 +21,10 @@ Como muchos desarrolladores que inician proyectos propios, enfrenté desafíos s
 ### Skills ✨
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-009505?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010)</br>
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)</br>
+![Retrofit](https://img.shields.io/badge/Retrofit-F89901?style=for-the-badge&labelColor=101010)</br>
+![Room](https://img.shields.io/badge/Room-1E3A8A?style=for-the-badge&labelColor=101010)</br>
 
 ### ¿Cómo encontrarme? 🤔
 [![Twitter](https://img.shields.io/badge/Twitter-@SebasGlezRdz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/SebasGlezRdz)
